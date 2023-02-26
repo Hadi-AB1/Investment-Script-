@@ -1,4 +1,4 @@
-# Investment-Script-
+# Investment-Script
 A script that allow the users to  check if their investments grow over time or not.
 
 1- Summarize the project and what problem it was solving? 
